@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "755941897593",
+    "firebase_url": "https://flutter-varios-8fb12.firebaseio.com",
+    "project_id": "flutter-varios-8fb12",
+    "storage_bucket": "flutter-varios-8fb12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755941897593:android:d97c2d9d6b7bfce9422ba8",
+        "android_client_info": {
+          "package_name": "com.sionabmmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755941897593-el8tan2800d2ppr9qjd7rd68gg3m682r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_mrb5Zcp6VqfcXSUMqjQzm-KG4hwn6Zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755941897593-el8tan2800d2ppr9qjd7rd68gg3m682r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "755941897593-hl2kmiftaumsnoejnmpldkb9pl9l6dlv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sionabmmobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
